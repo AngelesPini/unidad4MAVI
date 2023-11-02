@@ -1,8 +1,8 @@
 # unidad4MAVI
-Ejercicios correspondientes a la unidad nro 4 de Modelos y Algoritmos para Videojuegos I.
+### Ejercicios correspondientes a la unidad nro 4 de Modelos y Algoritmos para Videojuegos I.
 
-#Dependencias:
-##SFML
+# Dependencias
+## SFML
 
-#Programas:
-##Visual Studio 2022
+# Programas
+## Visual Studio 2022
